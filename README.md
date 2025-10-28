@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+**Sword Art Online (SAO) is a popular Japanese light novel series written by Reki Kawahara, which has since been adapted into anime, manga, and video games. The story revolves around players who are trapped in a virtual reality MMORPG (Massively Multiplayer Online Role-Playing Game) and must clear the game's levels to escape. The series explores themes like virtual worlds, artificial intelligence, survival, and relationships.**
